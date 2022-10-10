@@ -1,4 +1,4 @@
-[![Header](https://github.com/Bogdasarka/Bogdasarka/blob/506fc0e677c6aaa037c9a1c053187461f7b5d789/CbvHBDDwkSs.jpg)](https://artsiomrusau.com/)
+[![Header](https://github.com/Bogdasarka/Bogdasarka/blob/ca0c1ba051849d3202fd2f99ab6c588ed48e6935/ksyu.jpg)](https://artsiomrusau.com/)
 ## I'm a QA Engineer JUNIOR.
 ## I have completed the courses and am starting to take my first steps in QA on my own
 ## I'm learning English on YouTube
