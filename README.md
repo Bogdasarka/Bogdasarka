@@ -1,6 +1,6 @@
 [![Header](https://github.com/Bogdasarka/Bogdasarka/blob/506fc0e677c6aaa037c9a1c053187461f7b5d789/CbvHBDDwkSs.jpg)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor.
-## A creator of "Artsiom Rusau QA Life" Youtube channel
+## I'm a QA Engineer JUNIOR.
+## I have completed the courses and am starting to take my first steps in QA on my own
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
