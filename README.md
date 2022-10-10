@@ -14,11 +14,10 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Bogdasarka/test_cases.git)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/Bogdasarka/bug_report.git)
 - [SQL Queries](https://github.com/Bogdasarka/SQL.git)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/Bogdasarka/postman.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/bogdasarova_fitness/)
