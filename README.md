@@ -1,5 +1,5 @@
 
-[Здесь](https://github.com/Bogdasarka/Bogdasarka/blob/4a01c6452ff604608bf175e8d656f014e28c3768/CbvHBDDwkSs.jpg)
+[Здесь]
 
 👋 Hi, I’m a QA Engineer Junior and powerlifting athlete.
 
